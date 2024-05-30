@@ -91,8 +91,10 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instragram style="margin-bottom: 5px;"/>
+<a href="https://instagram.com/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/instagram:  yourusername-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom:5px;" />
+</a>
+ 5px;"/>
 </a>
 </li>
 
