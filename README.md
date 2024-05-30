@@ -92,7 +92,7 @@
 
 <li>
 <a href="https://instagram.com/gonzalo.alvarez2" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  gonzalo.alvarez2%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom:5px;" />
+<img src="https://img.shields.io/badge/instagram:  gonzalo.alvarez2-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom:5px;" />
 </a>
 </a>
 </li>
