@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://tenor.com/es-MX/view/hydra-we-bhack-gif-20860697" width = 50px></picture> **About me**
+## <picture><img src = "[https://tenor.com/es-MX/view/hydra-we-bhack-gif-20860697](https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif)" width = 50px></picture> **About me**
 
 <br>
 
